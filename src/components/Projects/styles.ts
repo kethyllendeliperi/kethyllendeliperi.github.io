@@ -8,7 +8,7 @@ export const ProjectsWrapper = styled.div`
   position: relative;
 
   div {
-    transform: translateX(-30%);
+    transform: translateX(-50%);
 
 
   }

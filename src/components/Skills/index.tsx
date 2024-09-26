@@ -16,9 +16,9 @@ const Skills = () => {
       stagger: 0.2,
       scrollTrigger: {
         trigger: '.skills',
-        start: 'top 100',
+        start: 'top top',
         end: 'bottom bottom',
-        scrub: 10
+        scrub: 8
       },
     })
 
