@@ -52,17 +52,17 @@ const Projects = () => {
     <div id='projects'>
       <S.ProjectsWrapper className='projectsTop'>
         <div><a href="https://clone-disneyplus-flax.vercel.app/"><img src={project_one} alt="Projeto Clone Disney+" /></a></div>
-        <div><a href="https://efood-delta-ruby.vercel.app/"><img src={project_two} alt="" /></a></div>
-        <div><a href="https://eplay-bice.vercel.app/"><img src={project_tree} alt="" /></a></div>
-        <div><a href="https://minhas-tarefas-jet.vercel.app/"><img src={project_four} alt="" /></a></div>
-        <div><a href="https://calculadora-imc-one-beryl.vercel.app/"><img src={project_five} alt="" /></a></div>
+        <div><a href="https://efood-delta-ruby.vercel.app/"><img src={project_two} alt="Projeto Efood" /></a></div>
+        <div><a href="https://eplay-bice.vercel.app/"><img src={project_tree} alt="Projeto Eplay" /></a></div>
+        <div><a href="https://minhas-tarefas-jet.vercel.app/"><img src={project_four} alt="Projeto Tarefas" /></a></div>
+        <div><a href="https://calculadora-imc-one-beryl.vercel.app/"><img src={project_five} alt="Projeto Calculadora de IMC" /></a></div>
       </S.ProjectsWrapper>
       <S.ProjectsWrapper className='projectsBottom'>
-        <div><a href="https://calculadora-vuejs-livid.vercel.app/"><img src={project_six} alt="" /></a></div>
-        <div><a href="https://costs-gray.vercel.app/"><img src={project_seven} alt="" /></a></div>
-        <div><a href="https://tech-talks-kappa.vercel.app/"><img src={project_eight} alt="" /></a></div>
-        <div><a href="https://lista-de-contatos-virid.vercel.app/"><img src={project_nine} alt="" /></a></div>
-        <div><a href="https://to-do-vue-beryl.vercel.app/"><img src={project_ten} alt="" /></a></div>
+        <div><a href="https://calculadora-vuejs-livid.vercel.app/"><img src={project_six} alt="Projeto Calculadora com Vue" /></a></div>
+        <div><a href="https://costs-gray.vercel.app/"><img src={project_seven} alt="Projeto Costs" /></a></div>
+        <div><a href="https://tech-talks-kappa.vercel.app/"><img src={project_eight} alt="Projeto Tech Talks" /></a></div>
+        <div><a href="https://lista-de-contatos-virid.vercel.app/"><img src={project_nine} alt="Projeto Lista de Contatos" /></a></div>
+        <div><a href="https://to-do-vue-beryl.vercel.app/"><img src={project_ten} alt="Projeto To-do List" /></a></div>
       </S.ProjectsWrapper>
     </div>
   );
